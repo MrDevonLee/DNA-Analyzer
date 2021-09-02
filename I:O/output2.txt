@@ -1,0 +1,79 @@
+Region Name: cure for cancer protein
+Nucleotides: ATGCCACTATGGTAG
+
+Nuc. Counts: [4, 3, 4, 5]
+Total Mass%: [25.7, 15.8, 28.7, 29.7] of 2103.9
+Codons List: ['ATG', 'CCA', 'CTA', 'TGG', 'TAG']
+Is Protein?: YES
+
+Region Name: captain picard hair growth protein
+Nucleotides: ATGCCAACATGGATGCCCGATATGGATTGA
+
+Nuc. Counts: [9, 6, 8, 8]
+Total Mass%: [29.7, 16.3, 29.5, 24.5] of 4092.6
+Codons List: ['ATG', 'CCA', 'ACA', 'TGG', 'ATG', 'CCC', 'GAT', 'ATG', 'GAT', 'TGA']
+Is Protein?: YES
+
+Region Name: bogus protein
+Nucleotides: CCATT-AATGATCA-CAGTT
+
+Nuc. Counts: [6, 4, 2, 7]
+Total Mass%: [30.8, 16.9, 11.5, 33.3] of 2633.2
+Codons List: ['CCA', 'TTA', 'ATG', 'ATC', 'ACA', 'GTT']
+Is Protein?: NO
+
+Region Name: michael jordan mad hops protein
+Nucleotides: ATGAG-ATC-CGTGATGTGGG-AT-CCTA-CT-CATTAA
+
+Nuc. Counts: [9, 6, 8, 11]
+Total Mass%: [24.0, 13.2, 23.9, 27.2] of 5068.0
+Codons List: ['ATG', 'AGA', 'TCC', 'GTG', 'ATG', 'TGG', 'GAT', 'CCT', 'ACT', 'CAT', 'TAA']
+Is Protein?: YES
+
+Region Name: paris hilton phony protein
+Nucleotides: ATGC-CAACATGGATGCCCTAAG-ATATGGATTAGTGA
+
+Nuc. Counts: [12, 6, 9, 10]
+Total Mass%: [31.8, 13.1, 26.7, 24.5] of 5099.4
+Codons List: ['ATG', 'CCA', 'ACA', 'TGG', 'ATG', 'CCC', 'TAA', 'GAT', 'ATG', 'GAT', 'TAG', 'TGA']
+Is Protein?: YES
+
+Region Name: jimi hendrix guitar talent protein
+Nucleotides: ATGATAATTAGTTTTAATATCAGA-CTGTAA
+
+Nuc. Counts: [12, 2, 4, 13]
+Total Mass%: [38.8, 5.3, 14.5, 39.0] of 4174.6
+Codons List: ['ATG', 'ATA', 'ATT', 'AGT', 'TTT', 'AAT', 'ATC', 'AGA', 'CTG', 'TAA']
+Is Protein?: NO
+
+Region Name: admiral grace murray hopper protein
+Nucleotides: ATGC-AATT--GC-----TCGA--------TTAG
+
+Nuc. Counts: [5, 3, 4, 7]
+Total Mass%: [16.5, 8.2, 14.8, 21.4] of 4089.2
+Codons List: ['ATG', 'CAA', 'TTG', 'CTC', 'GAT', 'TAG']
+Is Protein?: NO
+
+Region Name: tyler durden's brain protein
+Nucleotides: ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA
+
+Nuc. Counts: [24, 14, 16, 22]
+Total Mass%: [32.5, 15.6, 24.3, 27.6] of 9968.9
+Codons List: ['ATG', 'ATA', 'CCT', 'ATG', 'AGT', 'AAT', 'GTG', 'GAC', 'CAT', 'ATC', 'CAA', 'ACT', 'ATA', 'GGC', 'ATT', 'GTC', 'GGA', 'CCA', 'ACG', 'ATC', 'GAT', 'TGG', 'TTA', 'TAC', 'TGA']
+Is Protein?: YES
+
+Region Name: mini me growth hormone
+Nucleotides: ATGGGACGCTGA
+
+Nuc. Counts: [3, 2, 5, 3]
+Total Mass%: [23.1, 12.6, 43.0, 21.3] of 1758.6
+Codons List: ['ATG', 'GGA', 'CGC', 'TGA']
+Is Protein?: NO
+
+Region Name: Nyan Cat protein
+Nucleotides: CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT
+Nuc. Counts: [10, 10, 0, 10]
+Total Mass%: [29.3, 24.1, 0.0, 27.1] of 4613.4
+Codons List: ['CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT']
+Is Protein?: NO
+
